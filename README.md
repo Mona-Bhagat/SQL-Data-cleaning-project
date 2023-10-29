@@ -13,11 +13,11 @@ The primary dataset used for this analysis is the "Nashville Housing Data for Da
 
 # Data Cleaning/Preparation
  The following tasks were performed:
-	1 removal of time part from sale date column.
-	2 populate property address data where entries were null.
-  3 breaking out property addresses into individual columns (address, city, state).
-  4 breaking out ownership address into individual columns (address, city, state).
-  5 Change Y and N to Yes and No in "Sold as Vacant" field
-  6 Remove Duplicates
-  7 Delete Unused Columns
+ * Removal of time part from sale date column.
+ * Populate property address data where entries were null.
+ * Breaking out property addresses into individual columns (address, city, state).
+ * Breaking out ownership address into individual columns (address, city, state).
+ * Change Y and N to Yes and No in the "Sold as Vacant" field
+ * Remove Duplicates
+ * Delete Unused Columns
   
