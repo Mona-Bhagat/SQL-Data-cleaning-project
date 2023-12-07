@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project aims entirely at data cleaning in SQL 
+This project aims entirely at showcasing data-cleaning skills through SQL 
 
 # Data Sources
 The primary dataset used for this analysis is the "Nashville Housing Data for Data Cleaning" file, which contains detailed information about each sale made by the company.
